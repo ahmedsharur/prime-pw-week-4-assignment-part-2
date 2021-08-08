@@ -1,0 +1,23 @@
+
+
+header{
+  background-color: #34568B;
+}
+
+h2{
+  background-color: #9B2335;
+}
+
+h3{
+  background-color: pink;
+}
+
+
+.info{
+  border: 0.5px solid #111;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 50%;
+}
